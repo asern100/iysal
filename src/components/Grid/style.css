@@ -1,0 +1,31 @@
+
+.grid-aria{
+    
+    text-align: center;
+    
+}
+.grid-container {
+    padding: 50px;
+}
+
+.all  > div{}
+.item{
+    width: 100%;
+    text-align: left;
+}
+.item .img{
+    min-width: 200px;
+}
+.item .desc{
+    /*padding-right: 20px;*/
+}
+
+.item span{
+font-weight: bold;
+color: #F9AE26;
+font-size:small;
+}
+.item p{
+    font-size:small;
+    
+    }

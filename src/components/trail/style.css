@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.trial-aria{
+    height: 600px;
+    text-align: center;
+    
+}
+.trial-container {
+    padding: 50px;
+}
+p{
+    margin: 0 auto;
+    min-width: 300px;
+    max-width: 600px;
+}
+hr{
+    font-size: 5px;
+    color:#F99426
+}
+h3,h2{
+    font-family: 'Indie Flower', cursive;
+}
